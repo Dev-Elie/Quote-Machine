@@ -24,7 +24,7 @@ const App = () => {
              <div id="quote-box" className="card mx-auto">
             <div class="card-body">
                 <h2 id="text" className="text-center">
-               <i class="fa fa-quote-left" aria-hidden="true"></i>
+               <i class="fa fa-quote-left" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;&nbsp;	
                <span></span>
                   {quotes.text} 
                  </h2>
