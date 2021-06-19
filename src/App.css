@@ -1,0 +1,14 @@
+#quote-box{
+    background-color: #ffff;
+    margin-top: 15%;
+    width: 60%;
+    padding: 2rem;
+}
+
+
+
+@media screen and  (max-width: 768px) {
+    #quote-box{
+        width: 100%;
+    }
+}
